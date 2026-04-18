@@ -1,11 +1,11 @@
 {
-    "name": "ab_attendance_manager",
-    "short_name": "ab_attendance_manager",
+    "name": "Ander Baher™",
+    "short_name": "Ander Baher™",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Ander Baher™",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
